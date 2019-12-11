@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "rutas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "ARENAL DE MORÍS - PLAYA DE LA GRIEGA", "description": null, "altitudeMode": "relativeToGround", "tessellate": 1, "extrude": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -5.179041430747009, 43.474280981799126 ], [ -5.179041430747009, 43.474280981799126 ], [ -5.214202508723216, 43.474358839119255 ], [ -5.261806354319529, 43.50101128829165 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Descubre Villaviciosa", "description": null, "altitudeMode": "relativeToGround", "tessellate": 1, "extrude": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -5.436879163166668, 43.482030691386711 ], [ -5.436879163166668, 43.482030691386711 ], [ -5.4425, 43.4694444 ], [ -5.506618275650316, 43.437077183958692 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Faros de Asturias", "description": null, "altitudeMode": "relativeToGround", "tessellate": 1, "extrude": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -6.3719509, 43.5518028 ], [ -6.3719509, 43.5518028 ], [ -6.2429657, 43.5932631 ], [ -6.146069943516554, 43.562899537649102 ] ] } },
+{ "type": "Feature", "properties": { "Name": "De Los Oscos al Eo", "description": null, "altitudeMode": "relativeToGround", "tessellate": 1, "extrude": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -7.0274973, 43.2574282 ], [ -7.0274973, 43.2574282 ], [ -7.13895, 43.4047 ], [ -7.1088221, 43.3605685 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Ciudades de Asturias", "description": null, "altitudeMode": "relativeToGround", "tessellate": 1, "extrude": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -5.84798868917029, 43.36208546805446 ], [ -5.843190755517991, 43.362622117755734 ], [ -5.662648591141517, 43.548521667221713 ], [ -5.917822027747106, 43.557169685312701 ] ] } }
+]
+}
