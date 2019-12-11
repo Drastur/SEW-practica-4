@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE kml SYSTEM "about:legacy-compat">
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>ARENAL DE MORÍS - PLAYA DE LA GRIEGA</name>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+-5.179041430747009,43.474280981799126,0
+-5.179041430747009,43.474280981799126,0
+-5.214202508723216,43.474358839119255,19
+-5.261806354319529,43.50101128829165,0
+</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LineString>
+      <Style>
+              id='lineaRoja'&gt;
+              <LineStyle><color>#ff0000ff</color><width>5</width></LineStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>Descubre Villaviciosa</name>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+-5.436879163166668,43.48203069138671,46
+-5.436879163166668,43.48203069138671,46
+-5.4425,43.4694444,46
+-5.506618275650316,43.43707718395869,304
+</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LineString>
+      <Style>
+              id='lineaRoja'&gt;
+              <LineStyle><color>#ff0000ff</color><width>5</width></LineStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>Faros de Asturias</name>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+-6.3719509,43.5518028,0
+-6.3719509,43.5518028,0
+-6.2429657,43.5932631,0
+-6.1460699435165544,43.5628995376491,77
+</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LineString>
+      <Style>
+              id='lineaRoja'&gt;
+              <LineStyle><color>#ff0000ff</color><width>5</width></LineStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>De Los Oscos al Eo</name>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+-7.0274973,43.2574282,628
+-7.0274973,43.2574282,628
+-7.13895,43.4047,255
+-7.1088221,43.3605685,383
+</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LineString>
+      <Style>
+              id='lineaRoja'&gt;
+              <LineStyle><color>#ff0000ff</color><width>5</width></LineStyle></Style>
+    </Placemark>
+    <Placemark>
+      <name>Ciudades de Asturias</name>
+      <LineString>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>
+-5.84798868917029,43.36208546805446,242
+-5.843190755517991,43.362622117755734,242
+-5.662648591141517,43.54852166722171,50
+-5.917822027747106,43.5571696853127,27
+</coordinates>
+        <altitudeMode>relativeToGround</altitudeMode>
+      </LineString>
+      <Style>
+              id='lineaRoja'&gt;
+              <LineStyle><color>#ff0000ff</color><width>5</width></LineStyle></Style>
+    </Placemark>
+  </Document>
+</kml>
